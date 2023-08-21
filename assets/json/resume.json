@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Johannes Leutgeb",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "johannes.leutgeb@gmail.com",
+    //"phone": "(912) 123-4567",
+    //"url": "https://alshedivat.github.io/al-folio/",
+    //"summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Reichpietschufer 50",
+      "postalCode": "10785",
+      "city": "Berlin",
+      "countryCode": "DE"
+      //"region": "California"
     },
     "profiles": [
       {
