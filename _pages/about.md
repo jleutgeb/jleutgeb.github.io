@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research fellow at WZB in Berlin and I am interested in behavioral and experimental economics.  Currently, I am working on long-run interactions in high frequency environment and models of (political) influence. I am teaching introductory classes to programming experiments in oTree. Also, I dabble in 3D printing of representations of my data. 
+I am a research fellow at WZB in Berlin and I am interested in behavioral and experimental economics.  Currently, I am working on evolution of overconfidence using long-run interactions in high frequency environments, models of (political) influence and AI-human interactions. I am teaching introductory classes to programming experiments in oTree. Also, I dabble in 3D printing of representations of my data. 
 
 [//]: <> Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

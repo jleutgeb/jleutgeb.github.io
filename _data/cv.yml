@@ -1,23 +1,23 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Johannes Leutgeb
-    - name: Date of Birth
-      value: 28th May 1987
-    - name: Languages
-      value: German, English, French
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: Technical University, Berlin, Germany
-      year: 2017
-      description:
-        - Economics
-        - summa cum laude
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Johannes Leutgeb
+#     - name: Date of Birth
+#       value: 28th May 1987
+#     - name: Languages
+#       value: German, English, French
+# 
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: Technical University, Berlin, Germany
+#       year: 2017
+#       description:
+#         - Economics
+#         - summa cum laude
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
