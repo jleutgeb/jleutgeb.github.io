@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jleutgeb.github.io/jleutgeb/sitemap.xml
+Sitemap: https://jleutgeb.github.io/sitemap.xml
